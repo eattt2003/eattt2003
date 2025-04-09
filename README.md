@@ -11,7 +11,7 @@
     <li>🔭 I'm currently working on Nokia.</li>
     <li>🌱 I'm currently learning Computer Vision.</li>
     <li>👯 I’m looking to collaborate on interesting projects.</li>
-    <li>📫 How to reach me: <a href="mailto:lina200325@163.com">lina200325@163.com</a> / <a href="mailto:lina.1.zheng@nokia-sbell.com">lina.1.zheng@nokia-sbell.com</a></li>
+    <li>📫 How to reach me: <a href="mailto:lina200325@163.com">lina200325@163.com</a></li>
   </ul>
   
   <h2>Favorite Foods ———— I like eattt</h2>
