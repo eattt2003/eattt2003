@@ -1,6 +1,5 @@
 <div>
   <h1 align="center">Hi there, I'm Lina! 👋</h1>
-  
   <p align="center">
     <!-- 可替换为你喜欢的 GIF 或头像 -->
     <img src="https://media.giphy.com/media/WOwiryOPA0G6jhKqB0/giphy.gif?cid=790b76110jmq02d57pm94rqo9amvupze33bd9iwq6pug76tp&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="200"/>
@@ -21,7 +20,14 @@
     <li>🍦 <strong>Ice Cream</strong> – perfect</li>
     <li>🍜 <strong>Ramen</strong> – woww</li>
   </ul>
-  
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eattt2003/workflow/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eattt2003/workflow/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/eattt2003/workflow/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+
   <h2>Connect with Me</h2>
   <div align="center">
     <a href="mailto:lina200325@163.com">
