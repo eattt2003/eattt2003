@@ -45,9 +45,7 @@
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnQxcm90MTNzeW96dmU5NGhydTZvd3Vhb2x4ZG8zZTBub3hkemQ3OCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l41YoV54ZT606BGO4/giphy.gif" width="150" alt="Cute Air Conditioner"/>
   </p> 
   <p align="center"><strong>Summer is here, please everyone turn on the air conditioner!</strong></p>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=C2DFFF&height=300&section=header&text=%E8%AE%B8%E6%84%BF%E6%94%B6%E5%88%B0offer&fontSize=90" />
-</p>
+
 
 
 
