@@ -7,7 +7,6 @@
   
   <h2>About Me</h2>
   <ul>
-    <li>🔭 I'm currently working on Nokia.</li>
     <li>🌱 I'm currently learning Computer Vision.</li>
     <li>👯 I’m looking to collaborate on interesting projects.</li>
     <li>📫 How to reach me: <a href="mailto:lina200325@163.com">lina200325@163.com</a></li>
