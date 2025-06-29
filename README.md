@@ -1,7 +1,6 @@
 <div>
   <h1 align="center">Hi there, I'm Lina! 👋</h1>
   <p align="center">
-    <!-- 可替换为你喜欢的 GIF 或头像 -->
     <img src="https://media.giphy.com/media/WOwiryOPA0G6jhKqB0/giphy.gif?cid=790b76110jmq02d57pm94rqo9amvupze33bd9iwq6pug76tp&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="200"/>
   </p>
   
