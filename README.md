@@ -4,13 +4,7 @@
     <img src="https://media.giphy.com/media/WOwiryOPA0G6jhKqB0/giphy.gif?cid=790b76110jmq02d57pm94rqo9amvupze33bd9iwq6pug76tp&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="200"/>
   </p>
   
-  <h2>About Me</h2>
-  <ul>
-    <li>🌱 I'm currently learning Computer Vision.</li>
-    <li>👯 I’m looking to collaborate on interesting projects.</li>
-    <li>📫 How to reach me: <a href="mailto:lina200325@163.com">lina200325@163.com</a></li>
-  </ul>
-  
+
   <h2>Favorite Foods ———— I like eattt</h2>
   <ul>
     <li>🍕 <strong>Pizza</strong> – great</li>
