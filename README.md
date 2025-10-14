@@ -17,7 +17,7 @@
 
   <h2>Connect with Me</h2>
   <div align="center">
-    <a href="mailto:lina200325@163.com">
+    <a href="mailto:JUNWEN003@e.ntu.edu.sg">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
     </a>
     <a href="https://www.linkedin.com/in/junwen-zheng-0444a7347/">
